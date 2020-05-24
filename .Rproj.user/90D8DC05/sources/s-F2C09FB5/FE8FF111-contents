@@ -1,0 +1,33 @@
+---
+title: "speech_specs_20191007"
+author: "Vince Fulco"
+date: "10/7/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Speech Specs
+
+
+
+## Audience
+
+linde bilingual TMC
+
+
+## Title
+
+Writing and Editing For Maximum Impact
+
+## Concepts
+
+
+
+## gitpitch code
+  
+docker run -it -v /home/vfulco/wss_workshops/professional/acca_china_linkedinworkshop_gitpitch_20190912:/repo -p 9000:9000 gitpitch/desktop:pro
+
+docker run -it -v /home/vfulco/wss_workshops/toastmasters/linde_chemical_speechcraft/present_20191008:/repo -p 9000:9000 gitpitch/desktop:pro

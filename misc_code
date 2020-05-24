@@ -1,0 +1,415 @@
+---?image=images/before_clay.jpg&size=auto 80%&position=center
+
+---?image=images/after_clay.jpg&size=auto 80%&position=center
+
+
+
+
+@snap[west span-30]
+![vince](./images/vince_desk_cropped.jpg)
+@snapend
+
+@snap[east span-70 text-right text-1]
+Prepared over 1,000 LinkedIn Profiles & Resumes
+Nearly 30 Years in Business, 24 on Wall Street
+U.S. Resume Writers' Assoc., CFA, CAIA
+Accomplished Toastmaster-- Speaker, Area Director
+Career Coach
+@snapend
+
+----
+
+![crowd](./images/lego-crowd.jpg){ width=100% height=100% }
+
+
+original
+theme-text       : [ "Raleway", "#F5FFFA", "none" ]
+
+#365F91
+
+Benjamin Moore Metallic Silver / 2132-60 / #c4cace Hex Color Code
+
+@snap[north span-100 text-15]
+
+
+@snap[south span-75]
+![gold](./images/businessman-coins.jpg)
+@snapend
+
+@fa[arrow-right text-bold fa-xs]( 
+
+
+  ---
+
+  @snap[north span-100 text-center]
+In order to be found, you have to be findable.
+
+--Austin Kleon
+@snapend
+
+@snap[south span-75]
+![lego-people](./images/lego-man-woman.jpg)
+@snapend
+
+---?image=images/lego-crowd.jpg
+  
+
+  ---
+
+@snap[north-east span-75 text-4]
+@fa[globe text-bold fa-xs]( Shanghai, China)
+@snapend
+
+@snap[midpoint span-100 text-center text-2]
+Slides at: https://gitpitch.com/weisisheng/linde-speechwriting-20191008/master
+Password: linde201910
+@snapend
+
+---
+
+
+@snap[west span-45 text-center]
+## Surprise?
+![myths](./images/surprised.jpg)
+@snapend
+
+@snap[north-east span-50 text-12]
+@box[bg-gold text-white text-center box-padding fragment](1. No One Uses Linkedin (in China))
+@snapend
+
+@snap[east span-50 text-12]
+@box[bg-gold text-white text-center box-padding fragment](2. Not Enough Postings)
+@snapend
+
+@snap[south-east span-50 text-12]
+@box[bg-gold text-white text-center box-padding fragment](3. Only For Search)
+@snapend
+
+---
+
+## ~~Myth #1~~
+
+@snap[text-17 text-orange]
+Global Usage & Reach
+@snapend
+
+@snap[text-15]
+@ul[midpoint span-50]
+#### 48MM Users in China
+#### 645MM Users Worldwide
+#### 44% > $75,0000 USD
+#### 80%+ Recruiters / HR
+@ulend
+@snapend
+
+---
+
+## ~~Myth #2~~
+
+@snap[west span-50 text-16 text-orange]
+Not
+Popular
+In
+China?
+@snapend
+
+@snap[east span-70]
+@table[table-header custom-header custom-spacing text-10](./assets/listings.csv)
+@snapend
+---
+
+## ~~Myth #3~~
+
+@snap[west span-50 text-left text-11]
+@ul[list-spaced-bullets](false)
+Job Search
+Research Companies
+Network with Industry Pros
+@ulend
+@snapend
+
+@snap[east span-50 text-left text-11]
+@ul[list-spaced-bullets](false)
+Professional Repository
+Watch Industry Trends
+Highlight Your Own Expertise
+@ulend
+@snapend
+
+@snap[south span-90 text-center text-18 text-orange]
+Free, Free, Free!
+@snapend
+
+---
+
+### Success Story #1
+### Taipei Client
+
+@snap[south span-75]
+![cl1](./images/back_success.jpg)
+@snapend
+
+---
+
+### Success Story #2
+
+### Shanghai Client
+
+@snap[south span-50]
+![cl2](./images/tyra-shrunk.gif)
+@snapend
+
+---
+
+### Success Story #3
+### Wuxi Client
+
+@snap[south span-60]
+![cl3](./images/client3_cropped2.jpg)
+@snapend
+
+---
+
+## A Profile is Invaluable:
+
+@snap[midpoint span-100 text-20 text-center]
+@ul[list-spaced-bullets]()
+Found Anywhere in World
+Presents You At Best
+Tells Story 24/7
+@ulend
+@snapend
+
+---?image=images/cake2.jpg
+
+---
+
+### Profile Layers
+
+@snap[midpoint span-80 text-13]
+@ol
+- Graphics
+- Header
+- Summary
+- Employment / Education
+- Professional Skills
+- Recommendations
+@olend
+@snapend
+
+---
+@snap[north text-center text-bold text-15]
+Graphics
+@snapend
+
+@snap[south span-100]
+@img[pg1](./images/page1_new.png)
+@snapend
+
+---
+@snap[west span-30 text-center text-bold text-15]
+Profile Header
+@snapend
+
+@snap[east span-60]
+@img[p2](images/lip1_mod.png)
+@snapend
+
+---
+
+@snap[northwest span-50 text-center fragment]
+## Actor
+![jachie](./images/jackie.jpeg)
+@snapend
+
+@snap[east span-50 text-center fragment]
+## Business Owner
+![jack](./images/jack.jpeg)
+@snapend
+
+@snap[south span-100 text-15 text-orange text-center fragment]
+Keywords Are Critical
+@snapend
+
+---
+### Your Turn: Profile Header
+
+@snap[midpoint text-center text-18]
+Job Title +
+Expertise
+= @fa[check fa-xl text-orange] @fa[check fa-xl text-orange] @fa[check fa-xl text-orange]
+@snapend
+
+---
+@snap[west span-40 text-left text-bold text-15]
+Summary
+@snapend
+
+@snap[east span-70]
+@img[p4](images/page2_new.png)
+@snapend
+
+---
+
+### Your Turn: Summary Section
+
+@snap[midpoint span-70 text-center]
+![sell](./images/emerge.png)
+@snapend
+
+@snap[south-west span-30 text-10]
+@box[bg-gold text-white box-padding fragment](Past Wins)
+@snapend
+
+@snap[south span-30 text-10]
+@box[bg-gold text-white box-padding fragment](Invaluable Skills)
+@snapend
+
+@snap[south-east span-30 text-10]
+@box[bg-gold text-white box-padding fragment](Quantitative Data)
+@snapend
+
+---
+
+@snap[west span-40 text-left text-bold text-15]
+Employment
+@snapend
+
+@snap[east span-60]
+@img[pg5](./images/page3_new.png)
+@snapend
+
+---
+
+### Your Turn: Employment Section
+
+@snap[midpoint span-150 text-center text-20]
+Biggest Achievements
+_____
+
+Tasks
+
+@snapend
+
+
+---
+
+@snap[west span-40 text-center text-bold text-15]
+Education
+@snapend
+
+@snap[east span-60]
+@img[pg6](./images/page4_new.png)
+@snapend
+
+---
+
+@snap[west text-center text-bold text-15]
+Professional
+Skills
+@snapend
+
+@snap[east span-60]
+@img[pg7](./images/page6_new.png)
+@snapend
+
+
+---?image=images/businessman-coins.jpg&size=55% 65%
+
+@snap[north text-center text-8]
+#### The Next Feature is Gold!
+@snapend
+
+@snap[south text-center text-8]
+#### Recommendations
+@snapend
+
+---?image=images/page7_new.png&size=55% 100%
+
+---
+
+@snap[north span-100 text-center]
+Bonus Feature:
+Tell Recruiters You Are Available!
+@snapend
+
+@snap[south span-75]
+@img[delegate](./images/delegate.jpeg)
+@snapend
+
+---
+
+Step #1:
+
+@snap[south span-100]
+@img[job1](./images/jobs_1_mod.png)
+@snapend
+
+---
+
+Step #2: 
+
+@snap[south span-90]
+@img[job2](./images/jobs_2_mod.png)
+@snapend
+---
+
+Step #3: 
+
+@snap[south span-100]
+@img[job3](./images/jobs_3_mod.png)
+@snapend
+
+---
+
+Step #4: 
+
+@snap[midpoint span-100]
+@img[job4](./images/jobs_4_mod.png)
+@snapend
+
+---
+
+### Outstanding Profile Creation
+
+@snap[midpoint span-80 text-13]
+@ol
+- Layers
+- Complete
+- Rich Content
+- Make Connections!!!
+@olend
+@snapend
+
+---
+
+@snap[north span-90 text-17]
+### Beat 90% of Your Competition
+@snapend
+
+@snap[midpoint span-200]
+@fa[star fa-lg shocking-gold]@fa[star fa-lg shocking-gold]@fa[star fa-lg shocking-gold]@fa[star fa-lg shocking-gold]@fa[star fa-lg shocking-gold]
+@snapend
+
+@snap[south span-50]
+![lego-man](./images/lego-man.png)
+@snapend
+
+---
+
+@snap[north-west span-35]
+![wss-logo](./images/wss_2018_logo.jpg)
+@snapend
+
+@snap[north-east span-75 text-4]
+@fab[linkedin-in text-bold fa-xs]( cn.linkedin.com/in/vfulco)
+@fab[zhihu text-bold fa-xs]( zhihu.com/people/vincefulco)
+@fab[weixin text-bold fa-xs]( vfulco-weisisheng)
+@fa[envelope-open-text text-bold fa-xs]( vfulco@weisisheng.cn)
+@fa[globe text-bold fa-xs]( Shanghai, China)
+@snapend
+
+@snap[south-west span-100 text-center text-2]
+Slides at: https://gitpitch.com/weisisheng/acca-china-liworkshop-20190912/master
+Password: acca201909
+@snapend

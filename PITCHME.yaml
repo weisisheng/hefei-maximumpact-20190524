@@ -1,0 +1,21 @@
+confidential : linde201910 
+
+theme-override : assets/wss-custom.css
+theme-logo: images/wss_2018_logo.jpg
+
+layout: top
+eager-loading : true
+
+
+theme : template
+
+theme-background : [ "linear-gradient(to top, #212282, #0066FF)" ]
+theme-headline   : [ "Raleway", "white", "none" ]
+theme-byline     : [ "Raleway", "white", "none" ]
+theme-text       : [ "Raleway", "#ffffff", "none" ]
+theme-links      : [ "white", "white" ]
+theme-code       : [ "Inconsolata" ]
+theme-controls   : [ "#484848" ]
+theme-margins    : [ "0", "15px" ]
+
+highlight        : ir-black
