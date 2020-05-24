@@ -4,7 +4,7 @@ Writing/Editing For Max Impact
 
 @snap[south span-100 text-orange]
 Vince Fulco, CC/CL/EC4
-SH Imagine & SGS TMC, Area Director N4
+Shanghai Imagine, Area Director N4
 May 24, 2020
 @snapend
 
